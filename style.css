@@ -1,0 +1,18 @@
+/* Example styling for an element with ID "my-element" */
+body{
+    background-color: lightblue;
+    color: white;
+    padding: 10px;
+}
+
+#get-joke {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+}
